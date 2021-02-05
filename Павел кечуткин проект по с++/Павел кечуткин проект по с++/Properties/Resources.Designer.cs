@@ -63,6 +63,16 @@ namespace Павел_кечуткин_проект_по_с__.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Gunbai {
+            get {
+                object obj = ResourceManager.GetObject("Gunbai", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap герб_узумаки {
             get {
                 object obj = ResourceManager.GetObject("герб узумаки", resourceCulture);
