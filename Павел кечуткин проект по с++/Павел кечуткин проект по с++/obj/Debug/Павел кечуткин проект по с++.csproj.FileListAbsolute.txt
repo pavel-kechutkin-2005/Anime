@@ -1,0 +1,12 @@
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\bin\Debug\Павел кечуткин проект по с++.exe.config
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\bin\Debug\Павел кечуткин проект по с++.exe
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\bin\Debug\Павел кечуткин проект по с++.pdb
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел кечуткин проект по с++.csprojAssemblyReference.cache
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.Form1.resources
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.Properties.Resources.resources
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел кечуткин проект по с++.csproj.GenerateResource.cache
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел кечуткин проект по с++.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел кечуткин проект по с++.exe
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел кечуткин проект по с++.pdb
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.klanUchiha.resources
+C:\Users\Павел\source\repos\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.klanUzumaki.resources
