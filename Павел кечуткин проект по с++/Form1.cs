@@ -29,7 +29,7 @@ namespace Павел_кечуткин_проект_по_с__
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            klanUchiha form3 = new klanUchiha("Учиха");
+            clanForm form3 = new clanForm("Учиха");
             form3.Show();
         }
 
@@ -45,26 +45,27 @@ namespace Павел_кечуткин_проект_по_с__
 
         private void label3_Click(object sender, EventArgs e)
         {
-            klanUchiha form = new klanUchiha("Учиха");
+            clanForm form = new clanForm("Учиха");
             form.Show();
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            klanUchiha form3 = new klanUchiha("Учиха");
+            clanForm form3 = new clanForm("Учиха");
             form3.Show();
 
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            klanUchiha form3 = new klanUchiha();
+            clanForm form3 = new clanForm("Узумаки");
             form3.Show();
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
         {
-
+            PersonsList persons = new PersonsList();
+            persons.Show();
         }
     }
 }
