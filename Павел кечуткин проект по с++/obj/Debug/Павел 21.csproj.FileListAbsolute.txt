@@ -1,0 +1,12 @@
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\bin\Debug\Павел кечуткин проект по с++.exe.config
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\bin\Debug\Павел кечуткин проект по с++.exe
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\bin\Debug\Павел кечуткин проект по с++.pdb
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел 21.csprojAssemblyReference.cache
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.Form1.resources
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.clanForm.resources
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.PersonsList.resources
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел_кечуткин_проект_по_с__.Properties.Resources.resources
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел 21.csproj.GenerateResource.cache
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел 21.csproj.CoreCompileInputs.cache
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел кечуткин проект по с++.exe
+C:\Users\beavi\Downloads\Anime-main\Anime-main\Павел кечуткин проект по с++\Павел кечуткин проект по с++\Павел кечуткин проект по с++\obj\Debug\Павел кечуткин проект по с++.pdb
