@@ -52,28 +52,28 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="klanUchiha.cs">
+    <Compile Include="clanForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="klanUchiha.Designer.cs">
-      <DependentUpon>klanUchiha.cs</DependentUpon>
+    <Compile Include="clanForm.Designer.cs">
+      <DependentUpon>clanForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="klanUzumaki.cs">
+    <Compile Include="PersonsList.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="klanUzumaki.Designer.cs">
-      <DependentUpon>klanUzumaki.cs</DependentUpon>
+    <Compile Include="PersonsList.Designer.cs">
+      <DependentUpon>PersonsList.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="klanUchiha.resx">
-      <DependentUpon>klanUchiha.cs</DependentUpon>
+    <EmbeddedResource Include="clanForm.resx">
+      <DependentUpon>clanForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="klanUzumaki.resx">
-      <DependentUpon>klanUzumaki.cs</DependentUpon>
+    <EmbeddedResource Include="PersonsList.resx">
+      <DependentUpon>PersonsList.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
